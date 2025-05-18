@@ -1,0 +1,48 @@
+.div1 { font-family:Tagesschrift ; font-style: italic; font-weight: 800;
+    border: rgb(255, 255, 255) solid;
+    border-radius: 20px;
+    background-color: rgb(44, 0, 126);
+    padding: 50px;
+    width: 320px;
+    position: relative;
+    left: 0px;
+    top: 20px;
+}
+
+.div2 { font-family:Tagesschrift ; font-style: italic; font-weight: 800;
+    border: rgb(255, 255, 255) solid;
+    border-radius: 20px;
+    background-color: rgb(44, 0, 126);
+    padding: 50px;
+    width: 320px;
+    position: relative;
+    left: 520px;
+    top: -377px;
+} 
+
+.div3 { font-family:Tagesschrift ; font-style: italic; font-weight: 800;
+    border: rgb(255, 255, 255) solid;
+    border-radius: 20px;
+    background-color: rgb(44, 0, 126);
+    padding: 50px;
+    width: 320px;
+    height: 290px;
+    position: relative;
+    left: 1000px;
+    top: -770px;
+}
+
+#body {background-image: url(f5a4f-17237186463166-1920.avif) ; background-size: cover;}
+
+h1 { font-family:Tagesschrift ; font-style: italic; text-decoration: line-through; font-weight: 800; }
+
+body { background-repeat: no-repeat;
+    background-image: url("Homelander.webp") ; 
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#img { 
+     float: right;
+}
